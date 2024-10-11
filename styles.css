@@ -76,7 +76,7 @@ img{
 .headerImg{
      width: 100%;
      height: 600px;
-     background-image: url("/Proyecto_Portafolio/img/ai-generated-8366100_1920.jpg");
+     background-image: url("img/header.jpg");
      background-position: center;
     
     align-content: center;
